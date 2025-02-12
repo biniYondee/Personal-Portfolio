@@ -1,0 +1,47 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+}
+
+/* Container for all content */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading style */
+h1 {
+    font-size: 2.5em;
+    color: #222;
+    margin-bottom: 10px;
+}
+
+/* Paragraph style */
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* Styling the image */
+.profile-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+/* Caption style */
+.caption {
+    font-style: italic;
+    color: #555;
+    margin-top: 10px;
+}
